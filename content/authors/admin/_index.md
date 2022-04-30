@@ -1,6 +1,7 @@
 ---
 title: Brian E. Robinson, PhD
 role: Associate Professor
+avatar_filename: avatar.jpg
 bio: My research interests include social-ecological systems, land, and statistics.
 interests:
   - Ecosystem services
