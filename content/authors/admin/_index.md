@@ -1,13 +1,10 @@
 ---
 title: Brian E. Robinson
 role: Associate Professor
-avatar_filename: avatar.jpg
 bio: My research interests include social-ecological systems, land, and statistics.
 interests:
   - Ecosystem services
   - statistics
-  - mountains
-  - beer
   - trails
 social:
   - icon: envelope
@@ -36,6 +33,10 @@ education:
     - course: BSc in Earth & Atmospheric Sciences
       institution: Georgia Tech
       year: 1999
+      
+user_groups:
+    - Principal Investigator
+
 email: ""
 superuser: true
 highlight_name: true
@@ -45,6 +46,6 @@ My group looks at how people meet their needs through use of ecosystems and natu
 * How does society depend on the environment?
 * What institutions do we create to mediate that relationship?
 
-Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively we take a land system science approach to investigate many of the questions we ask.
+Recent work has evaluated livelihood dependence on ecosystem services, inequality and livelihoods in Ghana, and land tenure's impact on the grasslands of Inner Mongolia, China. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively we take a land system science approach to investigate many of the questions we ask.
 
 {{< icon name="download" pack="fas" >}} See a recent {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
