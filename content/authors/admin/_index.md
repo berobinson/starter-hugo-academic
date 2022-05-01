@@ -41,12 +41,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Robinson Envrionment & Livelihoods Lab**
+**Robinson Ecosystems & Livelihoods Lab**
+
 My group looks at how people meet their needs through use of ecosystems and natural resources, and the role this plays in development. Core questions that drive our research are: 
 
 * How does society depend on the environment?
 * What institutions do we create to mediate that relationship?
 
-Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively we take a land system science approach to investigate many of the questions we ask.
+Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively we take a land system science approach to answer policy-relevant questions.
 
 {{< icon name="download" pack="fas" >}} See a recent {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
