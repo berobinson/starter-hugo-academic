@@ -7,21 +7,37 @@ title: 'Synthesizing the links between secure housing tenure and health for more
 authors:
   - Jill Baumgartner
   - Judith Rodriguez
+  - Frans Berkhout
+  - Yvonne Doyle
+  - Majid Ezzati
+  - George Owuso
+  - Zahidul Quayyum
+  - Bethlehem Solomon
+  - Meghan Winters
   - Gary Adamkiewicz
   - admin
+
+
 
 # Author notes (optional)
 author_notes:
   - 
   -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 doi: '10.12688/wellcomeopenres.17244.1'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +46,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wellcome Open Research*
-publication_short: In *ICW*
+publication: *Wellcome Open Research*
+publication_short: *Wellcome Open Research*
 
 abstract: Millions of households in rich and poor countries alike are at risk of being unwilfully displaced from their homes or the land on which they live (i.e., lack secure tenure), and the urban poor are most vulnerable. Improving housing tenure security may be an intervention to improve housing and environmental conditions and reduce urban health inequalities. Building on stakeholder workshops and a narrative review of the literature, we developed a conceptual model that infers the mechanisms through which more secure housing tenure can improve housing, environmental quality, and health. Empirical studies show that more secure urban housing tenure can boost economic mobility, improve housing and environmental conditions including reduced exposure to pollution, create safer and more resourced communities, and improve physical and mental health. These links are shared across tenure renters and owners and different economic settings. Broader support is needed for context-appropriate policies and actions to improve tenure security as a catalyst for cultivating healthier homes and neighbourhoods and reducing urban health inequalities in cities.
 
