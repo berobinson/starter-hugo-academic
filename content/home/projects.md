@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Land tenure security
-      tag: LTS
     - name: Ecosystem services
       tag: ES
+    - name: Land tenure security
+      tag: LTS
     - name: Welfare
       tag: HWB
     - name: Livelihoods
