@@ -3,6 +3,7 @@ widget: team members
 widget_id: team
 headless: true
 weight: 40
+title: The team
 active: true
 design:
   columns: "1"
