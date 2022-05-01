@@ -1,44 +1,56 @@
 ---
+# An instance of the Contact widget.
 widget: contact
-widget_id: contact
+
+# This file represents a page section.
 headless: true
-weight: 100
+
+# Order that this section appears on the page.
+weight: 130
+
 title: Contact
-subtitle: null
+subtitle:
+
 content:
+  # Automatically link email and phone or display as text?
+  autolink: false
+
+  # Email form provider
   form:
     provider: netlify
     formspree:
-      ? id
+      id:
     netlify:
+      # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  autolink: true
-  office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-  phone: 888 888 88 88
-  appointment_url: https://calendly.com
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+
+  # Contact details (edit or remove options as required)
+  email: brian.e.robinson[AT]mcgill.ca
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: "94305"
-    country: United States
-    country_code: US
+    street: 805 Sherbrooke St West
+    city: Montreal
+    region: QC
+    postcode: 'H3A 0B9'
+    country: Canada
+    country_code: CA
+  coordinates:
+    latitude: '45.50471475648672'
+    longitude: '-73.5749652015539'
+  directions: 
+  office_hours:
+    - 
+  appointment_url: 
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/Twitter
+      link: 'https://twitter.com/brianer'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: https://zoom.com
-  coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+      link: 'https://zoom.com'
+
 design:
-  columns: "2"
+  columns: '2'
 ---
