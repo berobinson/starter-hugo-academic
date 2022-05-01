@@ -41,6 +41,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+**Robinson Envrionment & Livelihoods Lab**
 My group looks at how people meet their needs through use of ecosystems and natural resources, and the role this plays in development. Core questions that drive our research are: 
 
 * How does society depend on the environment?
