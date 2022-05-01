@@ -46,7 +46,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Wellcome Open Research*, *7*, 18.
+publication: '*Wellcome Open Research*, *7*, 18.'
 publication_short: 
 
 abstract: Millions of households in rich and poor countries alike are at risk of being unwilfully displaced from their homes or the land on which they live (i.e., lack secure tenure), and the urban poor are most vulnerable. Improving housing tenure security may be an intervention to improve housing and environmental conditions and reduce urban health inequalities. Building on stakeholder workshops and a narrative review of the literature, we developed a conceptual model that infers the mechanisms through which more secure housing tenure can improve housing, environmental quality, and health. Empirical studies show that more secure urban housing tenure can boost economic mobility, improve housing and environmental conditions including reduced exposure to pollution, create safer and more resourced communities, and improve physical and mental health. These links are shared across tenure renters and owners and different economic settings. Broader support is needed for context-appropriate policies and actions to improve tenure security as a catalyst for cultivating healthier homes and neighbourhoods and reducing urban health inequalities in cities.
