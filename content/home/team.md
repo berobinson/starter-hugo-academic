@@ -19,6 +19,13 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: true
+
+authors:
+  - admin
+  - holly
+  - hugo
+  - yiyi
+  - xiang
   
 content:
   # Choose which groups/teams of users to display.
