@@ -29,7 +29,7 @@ publication_types: ['2']
 publication: In *Ecosystems and People*
 publication_short: 
 
-abstract: Property rights are fundamental institutions that set the rules for who is allowed to use, manage, and control natural resources.
+abstract: Property rights are fundamental institutions that set the rules for who is allowed to use, manage, and control natural resources. Though the literature on property rights over natural resources is well developed. However, our understanding of the ways by which property rights govern actors’ ability to obtain ecosystem services provided by these natural resources remains under-explored. Using the Adirondack Park, USA, as a case study, we develop a framework that pairs property rights theory with spatial analysis to show who can obtain ecosystem services across this landscape. We look at rights over three ecosystem services: timber, drinking water and recreational fishing. We show that property rights combined with ecosystem service flow affect who can receive ecosystem services, and where, across the landscape. Our results demonstrate that property rights can play a pivotal role in who can obtain ecosystem services across landscapes. However, more work is required to model the supply and flow of ecosystems services, and to connect these to property rights to fully capture the interactions occurring between property rights and ecosystem services, and how they influence who can obtain these services. This paper contributes to the literature by showing how property rights influence who the potential beneficiaries of ecosystem services are under different property rights regimes.
 
 # Summary. An optional shortened abstract.
 summary: ""
