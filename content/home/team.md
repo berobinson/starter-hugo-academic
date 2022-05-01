@@ -20,13 +20,7 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 
-authors:
-  - admin
-  - holly
-  - hugo
-  - yiyi
-  - xiang
-  
+
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
@@ -37,4 +31,11 @@ content:
     - Visitors
     - Alumni
 
+  authors:
+    - admin
+    - holly
+    - hugo
+    - yiyi
+    - xiang
+  
 ---
