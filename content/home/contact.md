@@ -39,17 +39,16 @@ content:
     longitude: '-73.5749652015539'
   directions: 
   office_hours:
-    - 
   appointment_url: 
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/brianer'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/brianer'
+  #  - icon: video
+  #    icon_pack: fas
+  #    name: Zoom Me
+  #    link: 'https://zoom.com'
 
 design:
   columns: '2'
