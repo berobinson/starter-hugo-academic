@@ -6,7 +6,7 @@ interests:
   - agent based modeling
 
 user_groups:
-    - Post docs 
+    - Post doctoral fellows 
 
 organizations:
   - name: McGill University

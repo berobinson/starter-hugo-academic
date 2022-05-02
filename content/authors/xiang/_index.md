@@ -6,7 +6,7 @@ interests:
   - Economics
 
 user_groups:
-  - Grad students
+  - Graduate students
   
 organizations:
   - name: McGill University

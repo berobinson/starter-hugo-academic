@@ -7,7 +7,7 @@ interests:
   - Land management
 
 user_groups:
-  - Grad students
+  - Graduate students
 
 organizations:
   - name: McGill University
