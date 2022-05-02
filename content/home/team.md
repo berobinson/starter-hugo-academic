@@ -30,8 +30,8 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
 #    - Principal Investigator  #uncommment to include PI at the top of people
-    - Grad students
-    - Post docs
+    - Graduate students
+    - Post doctoral fellows
     - Visitors
     - Alumni
 
