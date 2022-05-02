@@ -1,6 +1,6 @@
 ---
-title: ResNet: Promoting sustainable and resilient ecosystems throughout Canada
-summary: ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes and seascapes (and all the ecosystem services they provide) for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group's role in this project is to integrate communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape.
+title: 'ResNet: Sustainable & resilient ecosystems throughout Canada'
+summary: 'ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes and seascapes (and all the ecosystem services they provide) for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group's role in this project is to integrate communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape.'
 tags:
   - ES
   - HWB
