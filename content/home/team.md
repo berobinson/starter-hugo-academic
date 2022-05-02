@@ -12,8 +12,8 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: true
-    image_darken: 0
+   # text_color_light: true
+   # image_darken: 0
     
   # Show user's social networking links? (true/false)
   show_social: false
