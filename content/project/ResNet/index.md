@@ -1,28 +1,13 @@
 ---
-  title: 'ResNet: Promoting sustainable and resilient ecosystems throughout Canada'
-summary: 'ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes and seascapes (and all the ecosystem services they provide) for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group's role in this project is to integrate communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape.'
-
-# USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
-# filter_button:
-# - name: All
-#   tag: '*'
-# - name: Ecosystem services
-#   tag: ES
-# - name: Land tenure security
-#   tag: LTS
-# - name: Welfare
-#   tag: HWB
-# - name: Livelihoods
-#   tag: livelihoods
-
+title: ResNet: Promoting sustainable and resilient ecosystems throughout Canada
+summary: ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes and seascapes (and all the ecosystem services they provide) for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group's role in this project is to integrate communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape.
 tags:
   - ES
   - HWB
-
-date: '2022-05-02T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.nsercresnet.ca/theme-2-modeling.html'
+external_link: https://www.nsercresnet.ca/theme-2-modeling.html
 
 image:
   caption: 
@@ -43,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
