@@ -3,12 +3,16 @@ widget: people
 widget_id: team
 headless: true
 weight: 40
-title: The team
+
+# What to call it
+title: 'The team'
+subtitle: ''
+
 active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
     
   # Show user's social networking links? (true/false)
