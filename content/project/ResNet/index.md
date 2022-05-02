@@ -1,10 +1,13 @@
 ---
 title: 'ResNet: Promoting sustainable & resilient ecosystems'
-summary: "ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes and seascapes (and all the ecosystem services they provide) for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group is integrating communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape."
+summary: "ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group is integrating communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape."
+
 tags:
   - ES
   - HWB
-date: '2022-05-01T00:00:00Z'
+
+date: '2019-06-02T00:00:00Z'
+date_end: '2025-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.nsercresnet.ca/theme-2-modeling.html

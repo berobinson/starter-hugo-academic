@@ -1,6 +1,6 @@
 ---
 title: Pathways to Equitable Healthy Cities
-summary: "Pathways to equitable healthy cities is a global partnership that aims to improve population health, enhance health equity and ensure environmental sustainability in cities around the world through co-production of rigorous evidence with policy and civil society partners in cities in five countries. Cities provide tremendous opportunities for improving the health and wellbeing of their residents and those of other parts of the country. Despite an overall urban health advantage, there are massive inequalities within cities. Our vision is to provide timely rigorous scientific evidence on how urban change and development can be directed and managed to bring positive impacts on the health of people, communities and the planet, and to enhance health equity. We use diverse data sources, especially emerging open and big data, and novel methods for data integration and visualisation to characterise cities dynamic social, physical and natural environments, people’s experiences of these environments, and their health. We also use interdisciplinary methods from social sciences, engineering, environmental science and epidemiology to evaluate how urban policies and programmes will impact the urban environment and population health, through a lens of health equity."
+summary: "Pathways to equitable healthy cities is a global partnership that aims to improve population health, enhance health equity and ensure environmental sustainability in cities around the world through co-production of rigorous evidence with policy and civil society partners in cities in five countries. We use diverse data sources, especially emerging open and big data, and novel methods for data integration and visualisation to characterise cities dynamic social, physical and natural environments, people’s experiences of these environments, and their health."
 
 
 # USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
@@ -21,7 +21,8 @@ tags:
   - HWB
   - livelihoods
   
-date: '2022-05-02T00:00:00Z'
+date: '2018-05-02T00:00:00Z'
+date_end: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://equitablehealthycities.org/'
