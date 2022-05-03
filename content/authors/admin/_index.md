@@ -3,9 +3,11 @@ title: Brian E. Robinson
 role: Associate Professor
 bio: My research interests include social-ecological systems, land, and statistics.
 interests:
-  - Ecosystem services
-  - statistics
-  - trails
+  - land & ecosystem services
+  - policy evaluation
+  - international development
+  - spatial stuff
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,13 +43,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Robinson Ecosystems & Livelihoods Lab**
 
-My group looks at how people meet their needs through use of ecosystems and natural resources, and the role this plays in development. Core questions that drive our research are: 
+## Robinson Ecosystems & Livelihoods Lab
 
-* How does society depend on the environment?
-* What institutions do we create to mediate that relationship?
+I am an associate professor in the Department of Geography at McGill University, and an associate member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in development, and the institutions do we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively taking a land system science approach to answer policy-relevant questions.
 
-Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively we take a land system science approach to answer policy-relevant questions.
+{{< icon name="download" pack="fas" >}} For more detail (do you _really_ want more detail?) see my {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} See a recent {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
