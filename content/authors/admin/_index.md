@@ -3,7 +3,8 @@ title: Brian E. Robinson
 role: Associate Professor
 bio: My research interests include social-ecological systems, land, and statistics.
 interests:
-  - land & ecosystem services
+  - land systems
+  - ecosystem services
   - policy evaluation
   - international development
   - spatial stuff
@@ -15,15 +16,15 @@ social:
 #  - icon: cv
 #    icon_pack: ai
 #    link: uploads/robinson_cv.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.ca/citations?user=CDpl5ZwAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-8972-8318
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/lab/Brian-E-Robinson-Lab
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.ca/citations?user=CDpl5ZwAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/brianer
@@ -56,7 +57,7 @@ highlight_name: true
 
 ## Robinson Ecosystems & Livelihoods Lab
 
-I am an associate professor in the Department of Geography at McGill University, and an associate member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in development, and the institutions do we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively taking a land system science approach to answer policy-relevant questions.
+I am an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in development, and the institutions do we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively taking a land system science approach to answer policy-relevant questions.
 
 {{< icon name="download" pack="fas" >}} For more detail see my {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
