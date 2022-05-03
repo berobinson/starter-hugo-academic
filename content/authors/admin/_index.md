@@ -9,18 +9,25 @@ interests:
   - spatial stuff
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: brian.e.robinson@mcgill.ca
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/brianer
+#  - icon: envelope
+#    icon_pack: fas
+#    link: brian.e.robinson@mcgill.ca
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/robinson_cv.pdf
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8972-8318
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/lab/Brian-E-Robinson-Lab
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=CDpl5ZwAAAAJ&hl=en
-  - icon: cv
-    icon_pack: ai
-    link: uploads/robinson_cv.pdf
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/brianer
+
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca/
