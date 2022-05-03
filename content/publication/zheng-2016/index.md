@@ -5,33 +5,18 @@ title: 'Using ecosystem service trade-offs to inform water conservation policies
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jill Baumgartner
-  - Judith Rodriguez
-  - Frans Berkhout
-  - Yvonne Doyle
-  - Majid Ezzati
-  - George Owuso
-  - Zahidul Quayyum
-  - Bethlehem Solomon
-  - Meghan Winters
-  - Gary Adamkiewicz
+  - Hua Zheng
+  - Yifeng Li
   - admin
-
-
+  - Gang Liu
+  - Dongchun Ma
+  - Fengchun Wang
+  - Fei Lu
+  - Zhiyun Ouyang
+  - Gretchen C Daily
 
 # Author notes (optional)
 author_notes:
-  - 
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2022-01-01T00:00:00Z'
 doi: '10.12688/wellcomeopenres.17244.1'
