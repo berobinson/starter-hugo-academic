@@ -1,6 +1,6 @@
 
-# Theme metadata
-name = "custom1_theme"		# default is 'Minimal'
+# Theme metadata (default is 'Minimal')
+name = "custom1_theme"
 
 [light]
   # Primary
