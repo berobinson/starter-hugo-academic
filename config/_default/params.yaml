@@ -8,8 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: rose
-  font_size: s
+  font: custom1
+  font_size: m
 
 # SEO
 
@@ -91,9 +91,14 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapbox'
     api_key: ''
     zoom: 15
+
+content:
+  coordinates:
+    latitude: '45.504647925721784'
+    longitude: '-73.57496652278526'
 
 # Extensions
 
