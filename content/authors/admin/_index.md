@@ -15,9 +15,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/brianer
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=CDpl5ZwAAAAJ&hl=en
+  - icon: cv
+    icon_pack: ai
+    link: uploads/robinson_cv.pdf
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca/
