@@ -19,7 +19,7 @@ authors:
 author_notes: []
 
 date: '2016-12-01T00:00:00Z'
-doi: '10.12688/wellcomeopenres.17244.1'
+doi: '10.1002/fee.1432'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -34,13 +34,13 @@ publication_types: ['2']
 publication: '*Frontiers in Ecology and the Environment*, *14*(10), 527-532'
 publication_short: 
 
-abstract: Millions of households in rich and poor countries alike are at risk of being unwilfully displaced from their homes or the land on which they live (i.e., lack secure tenure), and the urban poor are most vulnerable. Improving housing tenure security may be an intervention to improve housing and environmental conditions and reduce urban health inequalities. Building on stakeholder workshops and a narrative review of the literature, we developed a conceptual model that infers the mechanisms through which more secure housing tenure can improve housing, environmental quality, and health. Empirical studies show that more secure urban housing tenure can boost economic mobility, improve housing and environmental conditions including reduced exposure to pollution, create safer and more resourced communities, and improve physical and mental health. These links are shared across tenure renters and owners and different economic settings. Broader support is needed for context-appropriate policies and actions to improve tenure security as a catalyst for cultivating healthier homes and neighbourhoods and reducing urban health inequalities in cities.
+abstract: Environmental managers and policy makers are increasingly discussing trade-offs between ecosystem services, but few studies have analyzed these trade-offs with a view to informing land-use planning. Using specialized models, we quantify ecosystem services in several land-use scenarios relative to actual land-use change over a 9-year period. These scenarios were developed in an effort to maintain agricultural production while improving water quality and increasing water quantity in the watershed of the Miyun Reservoir, the only source of surface water currently available for domestic use in Beijing, China. Within the watershed, from 2000 to 2009, forest cover and urban area increased by 33% and 280%, while water provision and water purification services declined by 9% and 27%, respectively. Under a hybrid scenario of agricultural expansion with riparian grassland buffers, three services – water provision, water purification, and sediment retention – as well as agricultural production all improved as compared with 2009 levels. Riparian grassland protection zones, seldom used in China, can effectively resolve trade-offs among multiple ecosystem services and are now being considered and implemented in several locations.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: 
-  - LTS
+  - ES
   - HWB
 
 # Display this page in the Featured widget?
@@ -63,7 +63,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
@@ -73,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - PEHC
+  - ESDep
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
