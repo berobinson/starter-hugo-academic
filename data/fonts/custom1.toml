@@ -2,10 +2,10 @@
 name = "custom1"
 
 # Optional Google font URL
-google_fonts = "family=Catamaran:wght@200;600&family=Inconsolata&family=Kameron:wght@400;700&display=swap"
+google_fonts = "family=Permanent+Marker&family=Raleway:wght@200;700&family=Space+Mono&display=swap"
 
 # Font families
-heading_font = "Kameron"
-body_font = "Catamaran"
-nav_font = "Catamaran"
-mono_font = "Inconsolata"
+heading_font = "Permanent Marker"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Space Mono"
