@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'McGill University'
+    description: 'academic website for Brian E Robinson and lab members. Focuses on environment, development, ecology, ecosystems, livelihoods, ecosystem services, policy, statistics.'
+    twitter: 'brianer'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
