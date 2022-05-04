@@ -2,10 +2,10 @@
 name = "custom1"
 
 # Optional Google font URL
-google_fonts = "family=Bitter:wght@400;700&family=Hind:wght@700&family=Space+Mono&display=swap"
+google_fonts = "family=Bitter:wght@400;700&family=Cabin:wght@600;700&family=Space+Mono&display=swap"
 
 # Font families
-heading_font = "Hind"
+heading_font = "Cabin"
 body_font = "Bitter"
 nav_font = "Bitter"
 mono_font = "Space Mono"
