@@ -1,6 +1,6 @@
 ---
 title: 'Beijing Household Energy Transitions'
-summary: 'The BHET project is assessing the health, environmental, and welfare impacts of a large-scale energy transition policy in peri-urban Beijing.'
+summary: 'The BHET project is assessing the health, environmental, and welfare impacts of a large-scale energy transition policy in peri-urban Beijing. Using the quasi-random rollout of this policy throughout villages in Beijing municipality, we are collecting detailed data on changes in household heating behavior, energy expenditures, indoor & outdoor air quality, air exposure, and other health metrics in over 1000 households in 50 villages over 4 years.'
 
 
 # USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
@@ -20,6 +20,7 @@ tags:
   - ES
   - HWB
   - livelihoods
+  - active
   
 date: '2017-05-02T00:00:00Z'
 date_end: '2024-01-01T00:00:00Z'
