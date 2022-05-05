@@ -32,6 +32,7 @@ social:
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca/
+    
 education:
   courses:
     - course: PhD in Environment & Resources
