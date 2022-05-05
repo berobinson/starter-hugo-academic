@@ -24,7 +24,7 @@ tags:
   - active
 
   
-date: '2017-07-02T00:00:00Z'
+date: '2017-10-02T00:00:00Z'
 date_end: '2022-12-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
