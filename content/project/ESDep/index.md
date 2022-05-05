@@ -1,27 +1,37 @@
 ---
-title: 'ResNet: Promoting sustainable & resilient ecosystems'
-summary: "ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group is integrating communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape."
+title: 'Ecosystem Service Dependency and Vulnerability'
+summary: 'This project developed our understanding of the links between human welfare and ecosystem services by tracing rural welfare dependencies back to local ecosystems and land uses. We developed methods for capturing these dependencies through household surveys, land use data, and models of ecosystem service flows. Our primary collaborating partners were the Chinese Academy of Science and the Natural Capital Project.'
 
+
+# USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
+# filter_button:
+# - name: All
+#   tag: '*'
+# - name: Ecosystem services
+#   tag: ES
+# - name: Land tenure security
+#   tag: LTS
+# - name: Welfare
+#   tag: HWB
+# - name: Livelihoods
+#   tag: livelihoods
+    
 tags:
   - ES
   - HWB
-  - active
-
-date: '2019-06-02T00:00:00Z'
-date_end: '2025-01-01T00:00:00Z'
+  - livelihoods
+  
+date: '2015-05-02T00:00:00Z'
+date_end: '2019-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.nsercresnet.ca/theme-2-modeling.html
+external_link: ''
 
 image:
   caption: 
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/NSERC_ResNet
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,7 +42,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.

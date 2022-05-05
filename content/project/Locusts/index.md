@@ -1,17 +1,32 @@
 ---
-title: 'ResNet: Promoting sustainable & resilient ecosystems'
-summary: "ResNet's mission is to support Canada's capacity to monitor, model, and manage its working landscapes for the long-term shared health, prosperity and resilience for all Canadians through community-engaged research. My group is integrating communities into models to better account for how ecosystem service flows are captured by human beneficiaries on the landscape."
+title: 'Grasslands & locust outbreaks'
+summary: 'This project investigates feedbacks among locusts, livestock, nutrients and people. Current fieldwork focuses on understanding these relationships in Senegal, building on past work in China and Australia. We are investigating two overarching questions: (1) How do insect-nutrient relations and livestock grazing strategies interact to affect food security, and rangeland degradation? (2) How do property rights regimes affect the adaptive capacity of societies to respond to the linkages between overgrazing and locust outbreaks?'
 
+
+# USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
+# filter_button:
+# - name: All
+#   tag: '*'
+# - name: Ecosystem services
+#   tag: ES
+# - name: Land tenure security
+#   tag: LTS
+# - name: Welfare
+#   tag: HWB
+# - name: Livelihoods
+#   tag: livelihoods
+    
 tags:
   - ES
   - HWB
+  - livelihoods
   - active
 
-date: '2019-06-02T00:00:00Z'
-date_end: '2025-01-01T00:00:00Z'
+  
+date: '2022-05-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.nsercresnet.ca/theme-2-modeling.html
+external_link: 'https://sustainability-innovation.asu.edu/global-locust-initiative/'
 
 image:
   caption: 
@@ -21,7 +36,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/NSERC_ResNet
+    url: https://twitter.com/globallocust
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,7 +47,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+slides: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
