@@ -19,7 +19,7 @@ education:
     - course: MS in xx
       institution: University of xx
       year: 20xx
-   - course: PhD in xx
+    - course: PhD in xx
       institution: University of xx
       year: 20xx
 
