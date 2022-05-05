@@ -22,7 +22,7 @@ tags:
   - livelihoods
   - active
   
-date: '2018-05-02T00:00:00Z'
+date: '2017-05-02T00:00:00Z'
 date_end: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
