@@ -17,12 +17,12 @@ organizations:
     
 education:
   courses:
-   - course: MS in xx
-     institution: University of xx
-     year: 20xx
-   - course: PhD in xx
-     institution: University of xx
-     year: 20xx
+    - course: 'MS in xx'
+      institution: 'University of xx'
+      year: '20xx'
+    - course: PhD in xx
+      institution: University of xx
+      year: 20xx
 
 # social:
 #   - icon: google-scholar
