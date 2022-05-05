@@ -23,7 +23,8 @@ tags:
   - active
 
   
-date: '2015-05-02T00:00:00Z'
+date: '2015-10-02T00:00:00Z'
+date_end: '2022-12-31T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sustainability-innovation.asu.edu/global-locust-initiative/'
