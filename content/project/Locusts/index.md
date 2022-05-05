@@ -17,13 +17,13 @@ summary: 'This project investigates feedbacks among locusts, livestock, nutrient
 #   tag: livelihoods
     
 tags:
-  - ES
   - HWB
+  - LTS
   - livelihoods
   - active
 
   
-date: '2022-05-02T00:00:00Z'
+date: '2015-05-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sustainability-innovation.asu.edu/global-locust-initiative/'
