@@ -12,8 +12,8 @@ user_groups:
   - Post doctoral fellows
 
 organizations:
-  - name: University of Melbourne
-    url: https://findanexpert.unimelb.edu.au/profile/938282-marie-dade
+  - name: McGill University
+    url: https://www.mcgill.ca/
     
 education:
   courses:
