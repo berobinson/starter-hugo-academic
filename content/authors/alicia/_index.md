@@ -9,7 +9,7 @@ interests:
   - Urban and economic geography
 
 user_groups:
-  - Post doctoral fellows
+  - Post doctoral fellows & staff
 
 organizations:
   - name: McGill University
