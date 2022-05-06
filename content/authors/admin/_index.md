@@ -1,6 +1,6 @@
 ---
 # Basic info
-title: Brian E. Robinson
+title: Brian E Robinson
 role: Associate Professor
 bio: My research interests include land systems, social-ecological policy, and statistics.
 interests:
