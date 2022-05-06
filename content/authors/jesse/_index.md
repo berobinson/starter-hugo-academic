@@ -1,6 +1,6 @@
 ---
 title: Jesse Rieb
-role: Data Scientist
+role: Data Scientist (former postdoc)
 bio: My research interests include ecosystem services, GIS and remote sensing, agricultural landscapes, modelling.
 
 interests:
