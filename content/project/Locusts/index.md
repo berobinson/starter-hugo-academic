@@ -36,7 +36,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: follow
     url: https://twitter.com/globallocust
 url_code: ''
 url_pdf: ''
