@@ -1,4 +1,5 @@
 ---
+# Basic info
 title: Brian E. Robinson
 role: Associate Professor
 bio: My research interests include land systems, social-ecological policy, and statistics.
@@ -9,13 +10,9 @@ interests:
   - international development
   - spatial analysis
 
+# Any social media you want linked or displayed. There are lots of other options here if you want to add a link for 
+# github, a cv, email address -- see some other possible academic icons to link: https://jpswalsh.github.io/academicons/
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: brian.e.robinson@mcgill.ca
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/robinson_cv.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=CDpl5ZwAAAAJ&hl=en
@@ -32,7 +29,8 @@ social:
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca/
-    
+
+#add your degrees and insitutions
 education:
   courses:
     - course: PhD in Environment & Resources
