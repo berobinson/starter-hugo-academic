@@ -1,5 +1,5 @@
 ---
-title: '[Marie C Dade](https://mcdaderesearch.wordpress.com/)'
+title: Marie C Dade
 role: Lecturer in Urban Greening
 bio: My research interests include ecosystem services, sustainable landscape management, spatial science, and urban ecology.
 
@@ -12,7 +12,7 @@ user_groups:
 
 organizations:
   - name: University of Melbourne
-    url: https://findanexpert.unimelb.edu.au/profile/938282-marie-dade
+    url: https://mcdaderesearch.wordpress.com/
     
 education:
   courses:
