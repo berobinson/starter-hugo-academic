@@ -31,8 +31,7 @@ content:
   user_groups:
 #    - Principal Investigator  #uncommment to include PI at the top of people
     - Graduate students
-    - Post doctoral fellows
-    - Visitors
+    - Post doctoral fellows & staff
     - Alumni
 
   authors:
