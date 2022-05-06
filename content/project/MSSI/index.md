@@ -20,9 +20,7 @@ tags:
   - ES
   - HWB
   - LTS
-  - livelihoods
   - active
-
   
 date: '2017-10-02T00:00:00Z'
 date_end: '2022-12-31T00:00:00Z'
@@ -35,6 +33,10 @@ image:
   focal_point: Smart
 
 links:
+  - icon: twitter
+    icon_pack: fab
+    name: follow
+    link: https://twitter.com/McGillMSSI
 
 url_code: ''
 url_pdf: ''
