@@ -20,7 +20,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: follow
     url: https://twitter.com/NSERC_ResNet
 url_code: ''
 url_pdf: ''
