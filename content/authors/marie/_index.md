@@ -1,6 +1,6 @@
 ---
 title: Marie C Dade
-role: Lecturer in Urban Greening
+role: Lecturer in Urban Greening (former postdoc)
 bio: My research interests include ecosystem services, sustainable landscape management, spatial science, and urban ecology.
 
 interests:
