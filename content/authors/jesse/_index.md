@@ -1,6 +1,6 @@
 ---
-title: Jesse Rieb (former postdoc)
-role: Data Scientist with [NGA](https://www.nga.mil/)
+title: Jesse Rieb
+role: Current: Data Scientist with [NGA](https://www.nga.mil/) (former postdoc)
 bio: My research interests include ecosystem services, GIS and remote sensing, agricultural landscapes, modelling.
 
 interests:
