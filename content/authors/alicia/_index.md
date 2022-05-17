@@ -43,4 +43,3 @@ superuser: false
 highlight_name: true
 --- 
 
-Link to the homepage here: https://mcdaderesearch.wordpress.com/
