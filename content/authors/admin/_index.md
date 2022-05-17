@@ -58,7 +58,7 @@ highlight_name: true
 
 I am an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in development, and the institutions we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively taking a land system science approach to answer policy-relevant questions.
 
-{{< icon name="people-group" pack="fas" >}} For thoughts on how we try to practice inclusive science in the lab, [see here](https://drber.netlify.app/edi/).
+{{< icon name="users-line" pack="fas" >}} For thoughts on how we try to practice inclusive science in the lab, [see here](https://drber.netlify.app/edi/).
 
 {{< icon name="file-arrow-down" pack="fas" >}} For more details on Brian Robinson, see his {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV here{{< /staticref >}}.
 
