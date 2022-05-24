@@ -1,5 +1,5 @@
 ---
-title: '[Yiyi Zhang](https://yiyizh11.github.io/busybee//)'
+title: Yiyi Zhang
 role: PhD student
 interests:
   - ecosystem services
@@ -11,7 +11,7 @@ user_groups:
 
 organizations:
   - name: McGill University
-    url: https://www.mcgill.ca/
+    url: https://yiyizh11.github.io/busybee//
     
 education:
   courses:
