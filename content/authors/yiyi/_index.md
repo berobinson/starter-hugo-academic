@@ -1,5 +1,5 @@
 ---
-title: [Yiyi Zhang](https://yiyizh11.github.io/busybee//)
+title: '[Yiyi Zhang](https://yiyizh11.github.io/busybee//)'
 role: PhD student
 interests:
   - ecosystem services
