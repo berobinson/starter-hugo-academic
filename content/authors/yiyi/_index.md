@@ -18,7 +18,7 @@ education:
     - course: MA in Geography
       institution: University of Northern Iowa
       year: 2019
-    - course: MA in Human Geography and Urban-rural Planning
+    - course: BSc in Human Geography and Urban-rural Planning
       institution: Fuzhou University
       year: 2017
 
