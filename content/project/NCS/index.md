@@ -1,6 +1,6 @@
 ---
 title: Natural Climate Solutions + Co-benefits 
-summary: "Natural Climate Solutions (NCS) are changes in land systems that primarily aim to mitigate climate change. NCS include wide range of practices & actions that sometimes correlate with other things society cares about - like biodiversity conservation or human well-being. To better direct policy and guide action on where and how to implement NCS, and in close collaboration with [The Nature Conservancy] (https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/), this project asks: How do various NCS pathways impact aspects of human well-being, biodiversity, and the environment?"
+summary: "Natural Climate Solutions (NCS) are changes in land systems that primarily aim to mitigate climate change. NCS include wide range of practices & actions that sometimes correlate with other things society cares about - like biodiversity conservation or human well-being. To better direct policy and guide action on where and how to implement NCS, and in close collaboration with [The Nature Conservancy](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/), this project asks: How do various NCS pathways impact aspects of human well-being, biodiversity, and the environment?"
 
 
 # USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
