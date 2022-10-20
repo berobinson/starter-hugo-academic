@@ -1,6 +1,6 @@
 ---
 title: Natural Climate Solutions + Co-benefits 
-summary: "Climate change and environmental degradation are some of the most pressing global challenges and highly interconnected with societal change. Natural Climate Solutions (NCS) are changes in land systems that primarily aim to mitigate climate change. NCS pathways can include wide range of practices & actions (Griscom et al., 2017; nature4climate.org), but how these correlate with other things society cares about - like biodiversity conservation or human well-being, has not been systematically documented. To better direct policy and guide action on where and how to implement NCS, this project asks: How do NCS pathways impact aspects of human well-being,  biodiversity, and the environment?"
+summary: "Natural Climate Solutions (NCS) are changes in land systems that primarily aim to mitigate climate change. NCS include wide range of practices & actions that sometimes correlate with other things society cares about - like biodiversity conservation or human well-being. To better direct policy and guide action on where and how to implement NCS, and in close collaboration with [The Nature Conservancy] (https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/), this project asks: How do various NCS pathways impact aspects of human well-being, biodiversity, and the environment?"
 
 
 # USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
@@ -26,7 +26,7 @@ date: '2017-05-02T00:00:00Z'
 date_end: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://equitablehealthycities.org/'
+external_link: ''
 
 image:
   caption: 
@@ -36,7 +36,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: follow
-    url: https://twitter.com/Pathways2Equity
+    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''

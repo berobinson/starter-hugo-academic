@@ -1,6 +1,6 @@
 ---
 title: 'Sustainable Landscapes (MSSI)'
-summary: 'Landscapes connect communities to the natural capital needed for the sustainable provision of ecosystem services like food, energy, clean water, and regulation of key processes like floods and climate. With support from the [McGill Sustainability Systems Initiative](https://www.mcgill.ca/mssi/), we are building a community of researchers from across the social and natural sciences around landscape sustainability, training the next generation of student researchers, and engaging stakeholders locally and nationally through a knowledge-to-action approach to better link science, engineering, and decision-making.'
+summary: 'Landscapes connect communities to the natural capital needed for the sustainable provision of ecosystem services like food, energy, clean water, and regulation of key processes like floods and climate. With support from the [McGill Sustainability Systems Initiative](https://www.mcgill.ca/mssi/), we are building a community of researchers from across the social and natural sciences around landscape sustainability, training the next generation of student researchers, and engaging stakeholders locally and nationally through a knowledge-to-action approach linking science, engineering, and decision-making.'
 
 
 # USE TAGS TO IDENTIFY A PROJECT IN SPECIFIC CATEGORIES
