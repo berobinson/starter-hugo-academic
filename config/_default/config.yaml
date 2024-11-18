@@ -28,6 +28,7 @@ module:
 ## ADVANCED
 ############################
 
+
 enableGitInfo: false
 summaryLength: 30
 pagination.pagerSize: 10
@@ -71,7 +72,8 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_POST_CSS
-
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
 sitemap:
   _merge: deep
-
