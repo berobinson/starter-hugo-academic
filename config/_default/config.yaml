@@ -67,5 +67,11 @@ related:
       weight: 70
 security:
   _merge: deep
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_POST_CSS
+
 sitemap:
   _merge: deep
+
