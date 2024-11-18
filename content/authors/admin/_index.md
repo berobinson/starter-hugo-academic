@@ -22,9 +22,13 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/lab/Brian-E-Robinson-Lab
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/brianer
+    link: https://www.linkedin.com/in/brianerobinson
+
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/brianer
 
 organizations:
   - name: McGill University
@@ -35,7 +39,7 @@ education:
   courses:
     - course: PhD in Environment & Resources
       institution: University of Wisconsin-Madison
-      year: 2009
+      year: 2011
     - course: MEng in Water Resources
       institution: Massachusetts Institute of Technology
       year: 2005
@@ -56,9 +60,9 @@ highlight_name: true
 
 ## Robinson Ecosystems & Livelihoods Lab
 
-I am an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in developing regions, and the institutions we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences -- collectively taking a land system science approach to answer policy-relevant questions.
+I am an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in developing regions, and the institutions we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences to answer policy-relevant questions.
 
 {{< icon name="user-group" pack="fas" >}} For practicing inclusive science in the lab, [see here](https://drber.netlify.app/edi/).
 
-{{< icon name="file-arrow-down" pack="fas" >}} For more details on Brian Robinson, see his {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV here{{< /staticref >}}.
+{{< icon name="file-arrow-down" pack="fas" >}} For more details on Brian, see his {{< staticref "uploads/robinson_cv.pdf" "newtab" >}}CV here{{< /staticref >}}.
 
