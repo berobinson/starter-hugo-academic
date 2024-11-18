@@ -60,10 +60,7 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--ES
-
-# Display this page in the Featured widget?
-featured: false
+- ES
 
 # Custom links (uncomment lines below)
 # links:

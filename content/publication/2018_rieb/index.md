@@ -28,8 +28,6 @@ authors:
   - Elena M Bennett
 
 
-
-
 # Author notes (optional)
 author_notes:
   -
@@ -55,12 +53,16 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: ""
 
+
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--ES
+- ES
+
 
 # Display this page in the Featured widget?
 featured: false
+
+
 
 # Custom links (uncomment lines below)
 # links:

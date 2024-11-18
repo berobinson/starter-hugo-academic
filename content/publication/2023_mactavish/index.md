@@ -15,7 +15,7 @@ authors:
   - Majid Ezzati
   - Raphael Arku
   - Alexandra M Schmidt
- -  Jill Baumgartner
+  -  Jill Baumgartner
 
 # Author notes (optional)
 author_notes:

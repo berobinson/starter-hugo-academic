@@ -15,7 +15,7 @@ author_notes:
   -
 
 date: '2020-01-01T00:00:00Z'
-doi: '10.1016/j.landusepol.2019.104352
+doi: '10.1016/j.landusepol.2019.104352'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-01T00:00:00Z'

@@ -1,6 +1,5 @@
 ---
-title: “Measuring what matters: actionable information for the landscape
-ecology of conservation biocontrol"
+title: 'Measuring what matters: actionable information for the landscape ecology of conservation biocontrol'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -14,7 +13,7 @@ authors:
   - Claudio Gratton
   - Jay A Rosenheim
   - Teja Tscharntke
- - Daniel S Karp
+  - Daniel S Karp
 
 # Author notes (optional)
 author_notes:
@@ -44,31 +43,8 @@ summary: ""
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
 - livelihoods
+- ES
 
-
-# Display this page in the Featured widget?
-featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

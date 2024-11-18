@@ -80,7 +80,7 @@ image:
 #   Otherwise, set `projects: []`.
 #   options: BHET, ESDep, Locusts, MSSI, NCS, PHEC, ResNet
 projects:
--BHET
+- BHET
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

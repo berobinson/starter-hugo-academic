@@ -1,19 +1,19 @@
 ---
-title: 'Disaggregating livelihood dependence on ecosystem services to inform land management'
+title: 'Ecosystem service synergies/trade-offs informing the supply-demand match of ecosystem services: Framework and application'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Lijuan Wang
-  - Hua Zheng
-  - Zhi Wen
-  - Lei Liu
-  - Ruonan Li
-  - Cong Li
-  - Lingqiao Kong
-
+- Lijuan Wang
+- Hua Zheng
+- Zhi Wen
+- Lei Liu
+- admin
+- Ruonan Li
+- Cong Li
+- Lingqiao Kong
+  
 # Author notes (optional)
 author_notes:
   -
@@ -41,7 +41,9 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--HWB
+- HWB
+- ES
+- livelihoods
 
 
 # Display this page in the Featured widget?
