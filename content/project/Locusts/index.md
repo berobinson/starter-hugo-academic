@@ -20,7 +20,6 @@ tags:
   - HWB
   - LTS
   - livelihoods
-  - active
 
   
 date: '2015-10-02T00:00:00Z'

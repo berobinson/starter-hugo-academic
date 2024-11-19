@@ -5,9 +5,9 @@ title: 'The application of semantic modelling to map pollination service provisi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - hugo
   - Ehsan Pashanejad
+  - admin
   - Lael Parrott
 
 # Author notes (optional)

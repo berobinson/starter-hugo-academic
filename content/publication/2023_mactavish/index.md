@@ -5,7 +5,6 @@ title: 'Identifying deprived “slum” neighbourhoods in the Greater Accra Metr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - alicia
   - Robert MacTavish
   - Honor Bixby
@@ -14,8 +13,9 @@ authors:
   - George Owusu
   - Majid Ezzati
   - Raphael Arku
+  - admin
   - Alexandra M Schmidt
-  -  Jill Baumgartner
+  - Jill Baumgartner
 
 # Author notes (optional)
 author_notes:

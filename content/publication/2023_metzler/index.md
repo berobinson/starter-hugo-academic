@@ -5,7 +5,6 @@ title: 'Phenotyping urban built and natural environments with high-resolution sa
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - A Barbara Metzler
   - Ricky Nathvani
   - Viktoriia Sharmanska
@@ -18,6 +17,7 @@ authors:
   - Jacob Doku Tetteh
   - George Owusu
   - Samuel Agyei-Mensah
+  - admin
   - Jill Baumgartner
   - Raphael E Arku
   - Majid Ezzati

@@ -5,10 +5,9 @@ title: 'Nature’s contribution to poverty alleviation, human wellbeing and the 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - geoff
   - Mahesh Poudyal
   - Franziska Kraft
+  - geoff
   - Anamika Das
   - Suman Attiwilli
   - Kate Schreckenberg
@@ -20,6 +19,7 @@ authors:
   - Sate Ahmad
   - Casey Ryan
   - Janet Fisher
+  - admin
   - Julia PG Jones
   - Katherine Homewood
   - Jevgeniy Bluwstein

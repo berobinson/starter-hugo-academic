@@ -5,7 +5,6 @@ title: 'Hundreds of millions of people in the tropics need both wild harvests an
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - geoff
   - Casey M Ryan
   - Anamika Das
@@ -13,7 +12,8 @@ authors:
   - Mahesh Poudyal
   - Sharachchandra Lele
   - Kate Schreckenberg
-  -  Aidan Keane
+  - admin
+  - Aidan Keane
   - Katherine M Homewood
   - Julia PG Jones
   - Carlos A Torres-Vitolas
