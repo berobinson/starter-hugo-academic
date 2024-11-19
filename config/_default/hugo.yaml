@@ -70,8 +70,9 @@ related:
 security:
   funcs:
     getenv:
-      - ^HUGO_
-      - WC_POST_CSS
+      - '^WC_'
+      - '^HUGO_'
+      - '^WC_POST_CSS'
   _merge: deep
 module:
   imports:
