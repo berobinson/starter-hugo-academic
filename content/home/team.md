@@ -24,14 +24,13 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: false
 
-
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
 #    - Principal Investigator  #uncommment to include PI at the top of people
     - Graduate students
-    - Post doctoral fellows & staff
+#    - Post doctoral fellows & staff
     - Alumni
 
   authors:
@@ -42,5 +41,7 @@ content:
     - xiang
     - alicia
     - marie
+    - luci
+    - jesse
   
 ---

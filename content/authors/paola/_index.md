@@ -1,6 +1,6 @@
 ---
 title: Paola Fajardo
-role: Research Assistant
+role: PhD student
 bio: My research interests include ...
 
 interests:
@@ -8,10 +8,10 @@ interests:
   - Natural Climate Solutions
 
 user_groups:
-  - Post doctoral fellows & staff
+  - Alumni
 
 organizations:
-  - name: McGill University
+  - name: Cambridge University
     url: 
     
 education:
@@ -19,10 +19,9 @@ education:
     - course: BA in xx
       institution: University of xx
       year: 20xx
-    - course: MS in xx
-      institution: University of xx
+    - course: MS in Geography
+      institution: McGill University
       year: 20xx
-
 
 social:
   - icon: google-scholar

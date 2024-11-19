@@ -1,6 +1,7 @@
 ---
 title: Luci Lu
-role: PhD student
+role: 'Post doc at [Jornada Experimental Range](https://jornada.nmsu.edu/) (former PhD student)'
+bio: Researching rangeland management and decision-making
 interests:
   - land system science  
   - development geography 
@@ -9,17 +10,17 @@ interests:
   - rural livelihoods 
 
 user_groups:
-  - Graduate students
+  - Alumni
 
 organizations:
-  - name: McGill University
-    url: https://www.mcgill.ca/
+  - name: Jornada Experimental Range, New Mexico State University
+    url: https://jornada.nmsu.edu/people/luci-lu
     
 education:
   courses:
     - course: PhD in Geography
       institution: McGill University
-      year: 2022 (expected)
+      year: 2023
     - course: MA in Geography
       institution: Miami University
       year: 2016
@@ -45,6 +46,3 @@ email: ""
 superuser: false
 highlight_name: true
 --- 
-My PhD research focuses on understanding the influence of transitioning property rights on resource management and rangeland dynamics in contemporary pastoral societies. My study area is in Inner Mongolia, a pastoral province in China contiguous to Mongolia. I have a broad interest in topics related to land system science and development geography, with a specific enthusiasm for socio-ecological modeling and participatory methods. I am interested in quantifying herders’ management behavior and rangeland changes through survey and satellite data and have an equal interest in listening to and learning from land users that are behind the numbers and pixels.   
- 
-To understand the underlying institutional and management drivers of rangeland change, I have been monitoring land change over time using earth observation data and integrating these data with spatial-explicit household surveys and participatory mapping. Additionally, I am combining a choice experiment and interviews to explore the different factors that affect herders’ perceived tenure insecurity and quantify the relative importance of each factor. Together, my PhD research assesses the impact of insecure land rights on herders’ land management decisions, and critically examines the effectiveness of the ongoing payment for ecosystem services programs on rangelands.
