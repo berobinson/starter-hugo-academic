@@ -72,7 +72,6 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
-      - ^WC_POST_CSS
   _merge: deep
 module:
   imports:
