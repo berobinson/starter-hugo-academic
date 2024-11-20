@@ -24,12 +24,11 @@ module:
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
     - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-#    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
 
 ############################
 ## ADVANCED
 ############################
-
 
 enableGitInfo: false
 summaryLength: 30
@@ -76,15 +75,6 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
-
-#security:
-#  funcs:
-#    getenv:
-#      - '^WC_'
-#      - '^HUGO_'
-#      - '^WC_POST_CSS'
-#  _merge: deep
-
 sitemap:
   _merge: deep
 minify:
