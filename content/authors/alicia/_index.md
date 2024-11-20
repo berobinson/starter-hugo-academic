@@ -1,6 +1,6 @@
 ---
 title: Alicia Cavanaugh
-role: 'Analyst, National Institutes of Health'
+role: 'Analyst, National Institutes of Health (former postdoc)'
 bio: My research focuses on measuring environmental, health, and socioeconomic inequalities.
 
 interests:
