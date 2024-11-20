@@ -5,8 +5,6 @@ title: 'Reimagining the potential of Earth observations for ecosystem service as
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - jesse
   - Carlos Ramirez-Reyes
   - Kate A Brauman
   - Rebecca Chaplin-Kramer
@@ -25,6 +23,8 @@ authors:
   - Frank E Muller-Karger
   - Jessica Norriss
   - Peter Potapov
+  - jesse
+  - admin
   - Jiangxiao Qiu
   - Leah H Samberg
   - Nagendra Singh

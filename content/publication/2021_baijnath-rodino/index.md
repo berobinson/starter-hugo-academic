@@ -5,11 +5,11 @@ title: 'Determining Freshwater Lake Communities’ Vulnerability to Snowstorms i
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Janine A Baijnath-Rodino
   - Amaia Albizua
   - Laxmi Sushama
   - Elena Bennett
+  - admin
 
 # Author notes (optional)
 author_notes:
@@ -38,6 +38,7 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
+- ES
 
 # Display this page in the Featured widget?
 featured: false

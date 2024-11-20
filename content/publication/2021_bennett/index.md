@@ -5,13 +5,13 @@ title: 'Facing the challenges of using place-based social-ecological research to
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  -  EM Bennett
+  - EM Bennett
   - P Morrison
   - JM Holzer 
   - KJ Winkler
   - EDG Fraser
   - SJ Green
+  - admin
   - K Sherren
   - J Botzas-Coluni
   - W Palen

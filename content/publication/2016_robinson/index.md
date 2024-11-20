@@ -35,7 +35,9 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--  livelihoods
+- livelihoods
+- ES
+- HWB
 
 
 # Display this page in the Featured widget?

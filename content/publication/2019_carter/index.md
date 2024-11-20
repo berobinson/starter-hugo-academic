@@ -5,10 +5,10 @@ title: 'Air Quality, Home Heating, and Well-Being under Beijing’s Ban on House
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - E Carter
   - C Barrington-Leigh
   - J Baumgartner
+  - admin
   - S Tao
   - Y Zhang
 # Author notes (optional)

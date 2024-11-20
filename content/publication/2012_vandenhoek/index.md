@@ -5,10 +5,11 @@ title: 'Understanding the Challenges and Rewards of Social-Ecological Research i
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Jamon Van Den Hoek
   - Jill C Baumgartner 
   - Elena Doucet-Beer
   - Timothy Hildebrandt
+  - admin
   - John Aloysius Zinda
 
 # Author notes (optional)

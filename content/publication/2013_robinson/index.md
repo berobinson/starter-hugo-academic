@@ -10,9 +10,6 @@ authors:
   - David J Lewis
 
 
-
-
-
 # Author notes (optional)
 author_notes:
   -

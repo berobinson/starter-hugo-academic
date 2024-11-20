@@ -5,15 +5,15 @@ title: 'Socioeconomic and Demographic Associations with Wintertime Air Pollution
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - xiang
   - Xiaoying Li
   - Jill Baumgartner
   - Christopher Barrington-Leigh
   - Sam Harper
+  - admin
   - Guofeng Shen
   - Talia Sternbach
   - Shu Tao
+  - xiang
   - Yuanxun Zhang
   - Ellison Carter
 

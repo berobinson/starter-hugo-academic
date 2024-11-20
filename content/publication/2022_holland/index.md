@@ -5,9 +5,9 @@ title: 'Land Tenure Security and Sustainable Development'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Margaret Holland
   - Yuta J Masuda
+  - admin
 
 # Author notes (optional)
 author_notes:

@@ -5,14 +5,14 @@ title: 'Field measurements of indoor and community air quality in rural Beijing 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - xiang
   - Xiaoying Li
   - Jill Baumgartner
   - Sam Harper
+  - xiang
   - Talia Sternbach
   - Christopher Barrington‐Leigh
   - Collin Brehmer
+  - admin
   - Guofeng Shen
   - Yuanxun Zhang
   - Shu Tao

@@ -2,7 +2,7 @@
 widget: people
 widget_id: team
 headless: true
-weight: 40
+weight: 30
 
 # What to call it
 title: 'The team'

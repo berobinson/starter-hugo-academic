@@ -5,12 +5,12 @@ title: 'Realizing the values of natural capital for inclusive, sustainable devel
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Hua Zheng
   - Lijuan Wang
   - Wenjia Peng
   - Cuiping Zhang
   - Cong Li
+  - admin
   - Xiaochen Wu
   - Lingqiao Kong
   - Ruonan Li

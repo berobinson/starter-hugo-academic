@@ -5,9 +5,9 @@ title: 'Rural-urban connectivity and agricultural land management across the Glo
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Fanny Boudet
   - Graham K MacDonald,
+  - admin
   - Leah H Samberg
 
 

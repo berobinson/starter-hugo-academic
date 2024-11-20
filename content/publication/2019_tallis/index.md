@@ -5,7 +5,6 @@ title: 'Aligning evidence generation and use across health, development, and env
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Heather Tallis
   - Katharine Kreis
   - Lydia Olander
@@ -102,6 +101,7 @@ authors:
   - Lisa Remlinger
   - Taylor H Ricketts
   - Bedilu Reta
+  - admin
   - Dilys Roe
   - Joshua Rosenthal
   - Guofeng Shen
@@ -150,6 +150,7 @@ summary: ""
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
 - HWB
+- ES
 
 
 # Display this page in the Featured widget?

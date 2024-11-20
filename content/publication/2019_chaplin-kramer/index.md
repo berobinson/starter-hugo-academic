@@ -5,11 +5,11 @@ title: 'Measuring what matters: actionable information for the landscape ecology
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Rebecca Chaplin-Kramer
   - Megan O'Rourke
   - Nancy Schellhorn
   - Wei Zhang
+  - admin
   - Claudio Gratton
   - Jay A Rosenheim
   - Teja Tscharntke

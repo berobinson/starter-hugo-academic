@@ -5,9 +5,9 @@ title: 'Next steps for ecosystem service models: integrating complex interaction
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - hugo
-  - Label Parrott
+  - Lael Parrott
+  - admin
 
 # Author notes (optional)
 author_notes:

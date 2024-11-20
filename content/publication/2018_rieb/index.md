@@ -5,7 +5,6 @@ title: 'Response to Kabisch and Colleagues'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - jesse
   - Rebecca Chaplin-Kramer
   - Gretchen C Daily
@@ -21,6 +20,7 @@ authors:
   - Henrique M Pereira
   - Garry D Peterson
   - Taylor H Ricketts
+  - admin
   - Matthias Schröter
   - Lisa A Schulte
   - Ralf Seppelt

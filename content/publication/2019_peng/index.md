@@ -5,8 +5,8 @@ title: 'Telecoupled Sustainable Livelihoods in an Era of Rural–Urban Dynamics:
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Wenjia Peng
+  - admin
   - Hua Zheng
   - Cong Li
   - Fengchun Wang

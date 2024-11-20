@@ -5,9 +5,9 @@ title: 'Soil-targeted interventions could alleviate locust and grasshopper pest 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Mira L Word
   - Sharon J Hall
+  - admin
   - Balanding Manneh
   - Alioune Beye
   - Arianne J Cease

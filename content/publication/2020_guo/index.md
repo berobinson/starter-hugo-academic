@@ -5,11 +5,11 @@ title: 'A review of spatial targeting methods of payment for ecosystem services'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Yanan Guo
   - Hua Zheng
   - Tong Wu
   - Jian Wu
+  - admin
 
 # Author notes (optional)
 author_notes:

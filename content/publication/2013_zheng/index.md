@@ -16,12 +16,10 @@ authors:
   - Gretchen C Daily
 
 
-
-
-
 # Author notes (optional)
 author_notes:
-  -
+  - joint first author
+  - joint first author
 
 date: '2013-01-01T00:00:00Z'
 doi: '10.1073/pnas.1312324110'
@@ -46,9 +44,9 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--  livelihoods
+- livelihoods
 - ES
-
+- HWB
 
 # Display this page in the Featured widget?
 featured: false

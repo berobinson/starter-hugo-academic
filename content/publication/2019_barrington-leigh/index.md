@@ -5,10 +5,10 @@ title: 'An evaluation of air quality, home heating and well-being under Beijingâ
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Christopher Barrington-Leigh
   - Jill Baumgartner
   - Ellison Carter
+  - admin
   - Shu Tao
   - Yuanxun Zhang
 
@@ -40,6 +40,7 @@ summary: ""
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
 - HWB
+- livelihoods
 
 
 # Display this page in the Featured widget?

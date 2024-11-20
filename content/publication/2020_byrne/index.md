@@ -5,9 +5,9 @@ title: 'A factor-income approach to estimating grassland protection subsidy paym
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Anne T Byrne
   - Joleen C Hadrich
+  - admin
   - Guodong Han
 
 # Author notes (optional)

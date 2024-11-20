@@ -5,7 +5,6 @@ title: 'From Molecules to Management: Mechanisms and Consequences of Locust Phas
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Darron A Cullen
   - Arianne J Cease
   - Alexandre V Latchininsky
@@ -17,6 +16,7 @@ authors:
   - Tom Matheson
   - Swidbert R Ott
   - Mario A Poot-Pech
+  - admin
   - Jonathan M Smith
   - Hojun Song
   - Gregory A Sword

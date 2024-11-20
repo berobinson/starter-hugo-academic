@@ -18,7 +18,7 @@ authors:
   - George Owusu
   - Samuel Agyei-Mensah
   - admin
-  - Jill Baumgartner
+  - Jill C Baumgartner
   - Raphael E Arku
   - Majid Ezzati
 

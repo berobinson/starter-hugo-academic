@@ -5,9 +5,9 @@ title: 'Evolving frontier land markets and the opportunity cost of sparing fores
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Tim G Holland
   - Oliver T Coomes
+  - admin
 
 # Author notes (optional)
 author_notes:
@@ -36,7 +36,8 @@ summary: ""
 
 # Tag options: ES, LTS, HWB, livelihoods, active
 tags: 
--  LTS
+- LTS
+- HWB
 
 
 # Display this page in the Featured widget?
