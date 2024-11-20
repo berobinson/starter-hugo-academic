@@ -1,6 +1,6 @@
 ---
 title: Geoff J Wells
-role: 'Senior Analyst, [Dept of Industry, Science and Resources](https://www.industry.gov.au/)(AUS)'
+role: 'Senior Analyst, [Dept of Industry, Science and Resources](https://www.industry.gov.au/) (AUS) (former postdoc)'
 bio: ''
 
 interests:

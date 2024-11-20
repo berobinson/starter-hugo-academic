@@ -24,20 +24,18 @@ education:
 #      year: 20xx
 
 social:
-<!-- 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
- -->
+#   - icon: google-scholar
+#     icon_pack: ai
+#     link: 
+#   - icon: orcid
+#     icon_pack: ai
+#     link: https://orcid.org/
+#   - icon: researchgate
+#     icon_pack: ai
+#     link: https://www.researchgate.net/
+#   - icon: twitter
+#     icon_pack: fab
+#     link: https://twitter.com/
 
 email: ""
 superuser: false
