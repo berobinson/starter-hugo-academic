@@ -60,7 +60,7 @@ highlight_name: true
 
 ## Robinson Ecosystems & Livelihoods Lab
 
-I am an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). My group and I look at how people meet their needs through use of ecosystems and natural resources, the role this plays in developing regions, and the institutions we create to mediate these relationships. Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences to answer policy-relevant questions.
+Our group investigates how people meet their needs through use of ecosystems and natural resources, and how policy and land rights mediate this relationship. The group is led by Brian E Robinson, an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences to answer policy-relevant questions.
 
 <i class="fa-solid fa-user-group"></i> For practicing inclusive science in the lab, [see here](https://drber.netlify.app/edi/).
 
