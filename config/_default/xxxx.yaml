@@ -76,6 +76,7 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+
 #security:
 #  funcs:
 #    getenv:
@@ -85,4 +86,6 @@ security:
 #  _merge: deep
 
 sitemap:
+  _merge: deep
+minify:
   _merge: deep
