@@ -33,7 +33,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-pagination:
+pagination
   pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
@@ -69,7 +69,16 @@ related:
       weight: 100
     - name: categories
       weight: 70
-security:
-  _merge: deep
+[security.funcs]
+getenv = [ "^HUGO_", "^WC_" ]
+
+#security:
+#  funcs:
+#    getenv:
+#      - '^WC_'
+#      - '^HUGO_'
+#      - '^WC_POST_CSS'
+#  _merge: deep
+
 sitemap:
   _merge: deep
