@@ -23,7 +23,8 @@ design:
   show_role: true
   # Show user's organizations/affiliations?
   show_organizations: false
-
+  align: l
+  
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
