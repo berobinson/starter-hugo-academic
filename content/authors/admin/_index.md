@@ -4,11 +4,10 @@ title: Brian E Robinson
 role: Associate Professor
 bio: My research interests include land systems, social-ecological policy, and statistics.
 interests:
-  - land systems
-  - ecosystem services
-  - policy evaluation
-  - international development
-  - spatial analysis
+  - Who gets ecosystem services?
+  - Where to put natural climate solutions?
+  - How to use national ecosystem accounts?
+#  - international development
 
 # Any social media you want linked or displayed. There are lots of other options here if you want to add a link for 
 # github, a cv, email address -- see some other possible academic icons to link: https://jpswalsh.github.io/academicons/
@@ -25,10 +24,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brianerobinson
+  - icon: twitter
+    icon_pack: fab
+    link: https://bsky.app/profile/berobinson.bsky.social
+#  - icon: bluesky
+#    icon_pack: custom OR fab?
+#    link: https://bsky.app/profile/berobinson.bsky.social
 
 #  - icon: twitter
 #    icon_pack: fab
-#    link: https://twitter.com/brianer
+#    link: <i class="fa-brands fa-square-bluesky"></i>
 
 organizations:
   - name: McGill University
@@ -58,11 +63,9 @@ superuser: true
 highlight_name: true
 ---
 
-## Robinson Ecosystems & Livelihoods Lab
-
 Our group investigates how people meet their needs through use of ecosystems and natural resources, and how policy and land rights mediate this relationship. The group is led by Brian E Robinson, an associate professor in the [Department of Geography](https://www.mcgill.ca/geography/) at McGill University, and a member of the [Bieler School on the Environment](https://www.mcgill.ca/environment/). Our research methods draw from environmental and development economics, ecology, development geography, and geographic information sciences to answer policy-relevant questions.
 
-<i class="fa-solid fa-user-group"></i> For practicing inclusive science in the lab, [see here](https://drber.netlify.app/edi/).
+<i class="fa-solid fa-user-group"></i> For practicing inclusive science in the lab, [see here](/edi).
 
 <i class="fa-solid fa-file-arrow-down"></i> For more details on Brian, see his [CV here](/uploads/robinson_CV.pdf).
 
